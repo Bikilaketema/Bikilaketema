@@ -8,5 +8,5 @@
   Email: Bikilaketema94@gmail.com 
   Twitter: https://twitter.com/BikilaKetema 
   Linkedin: https://www.linkedin.com/in/bikilaketema/
-  Facebook: https://www.facebook.com/bikilaketema(Currentlyinactive)
+  Facebook: https://www.facebook.com/bikilaketema (Currentlyinactive)
 - I am looking forward to collaborate on group projects to develop my teamwork skill and problem solving skills.
