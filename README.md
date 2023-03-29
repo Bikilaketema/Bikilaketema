@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **team projects to advance my skills.**
 
-- 💬 Ask me about **Linux,Devops,Python,Java,HTML,CSS,C,C++,Android.**
+- 💬 Ask me about **Linux,Devops,Python,Java,HTML,CSS,C,C++,JavaScript,Android.**
 
 - 📫 How to reach me **bikilaketema94@gmail.com**
 
-- ⚡ Fun fact **I don't like jokes...yea I don't like.**
+- ⚡ Fun fact **I am serious!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
