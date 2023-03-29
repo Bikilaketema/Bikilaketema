@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **team projects to advance my skills.**
 
-- 💬 Ask me about **Linux,Devops,Python,Java,HTML,CSS,C,C++,JavaScript,Android.**
+- 💬 Ask me about **Linux,Devops,Python,HTML,CSS,C,JavaScript,Android.**
 
 - 📫 How to reach me **bikilaketema94@gmail.com**
 
