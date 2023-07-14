@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bikilaketema94@gmail.com**
 
-- ⚡ Fun fact **Am confused**
+- ⚡ Fun fact **I am a fullstack Software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
