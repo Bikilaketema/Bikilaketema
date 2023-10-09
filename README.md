@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bikila Ketema</h1>
 <h3 align="center">Full stack Software Engineer from Ethioipia</h3>
-<img align="right" alt="Coding guy" width="400" src= "[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0h_C_SfJTc7FTbr3FAerlI&ust=1696936262699000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDkl6zq6IEDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding guy" width="400" src= "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0h_C_SfJTc7FTbr3FAerlI&ust=1696936262699000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDkl6zq6IEDFQAAAAAdAAAAABAE">
 
 
 - 🌱 I’m currently learning **Full stack software engineering at ALX-Africa(Holberton School) and Business Administartion and Information Systems at Addis Ababa University, School of commerce.**
