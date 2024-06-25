@@ -3,7 +3,7 @@
 <img align="right" alt="Coding guy" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🌱 I’m currently learning **Business Administartion and Information Systems at Addis Ababa University, School of commerce and successfully completed the 12 months ALX Fullstcak software engineering program**
+- 🌱 **Business Administartion and Information Systems graduate from Addis Ababa University, School of commerce | Successfully completed the 12 months ALX Africa Fullstcak software engineering program**
 
 - 👯 I’m looking to collaborate on **team projects to advance my skills.**
 
