@@ -3,7 +3,9 @@
 <img align="right" alt="Coding guy" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🌱 **Business Administartion and Information Systems graduate from Addis Ababa University, School of commerce | Successfully completed the 12 months ALX Africa Fullstcak software engineering program**
+- 🌱 **Hold a BA degree in Business Administartion and Information Systems from Addis Ababa University | Successfully completed the 12 months ALX Africa Fullstack software engineering program**
+- Worked on some real world porjects as an intern and personal projects(You can see the under my profile)
+- I am comfortable using linux terminal
 
 - 👯 I’m looking to collaborate on **team projects to advance my skills.**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **bikilaketema94@gmail.com**
 
-- ⚡ Fun fact **I am a fullstack Software engineer**
+- ⚡ Fun fact **I have a good knowledge of Devops not coding only!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
