@@ -4,7 +4,7 @@
 
 
 - 🌱 **Hold a BA degree in Business Administartion and Information Systems from Addis Ababa University | Successfully completed the 12 months ALX Africa Fullstack software engineering program**
-- Worked on some real world porjects as an intern and personal projects(You can see the under my profile)
+- Worked on some real world porjects as an intern and personal projects(You can see them under my profile)
 - I am comfortable using linux terminal
 
 - 👯 I’m looking to collaborate on **team projects to advance my skills.**
