@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikila Ketema</h1>
-<h3 align="center">Full stack Software Engineer from Ethioipia</h3>
+<h3 align="center">Full stack Software Engineer from Ethiopia</h3>
 <img align="right" alt="Coding guy" width="400" src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - Worked on some real world porjects as an intern, full time engineer and personal projects(You can see them under my profile)
