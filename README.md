@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@bikilaketema.com**
   
-- **<a href="https://bikilaketema.com" target="blank">bikilaketema.com </a>**
+- Check my website **<a href="https://bikilaketema.com" target="blank">https://bikilaketema.com </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
