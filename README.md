@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **team projects to advance my skills.**
 
-- 💬 Ask me about **Linux,Devops,Python,HTML,CSS,C,JavaScript,Android,MERN.**
+- 💬 Ask me about **System engineering, Full stack development, Linux, Devops, Python, C, JavaScript, MERN**
 
 - 📫 How to reach me **contact@bikilaketema.com**
   
