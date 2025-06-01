@@ -10,7 +10,7 @@
 - 💬 Ask me about **Linux,Devops,Python,HTML,CSS,C,JavaScript,Android,MERN.**
 
 - 📫 How to reach me **contact@bikilaketema.com**
-- Checkout my website **< a href="https://bikilaketema.com">bikilaketema.com</a>**
+- Checkout my website **< a href="https://bikilaketema.com"/>bikilaketema.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
