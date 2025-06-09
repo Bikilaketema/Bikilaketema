@@ -2,14 +2,14 @@
 <h3 align="center">Full Stack Developer from Ethiopia</h3>
 
 <p align="center">
-  <img src="https://github.com/bikilaKetema/bikilaKetema/assets/yourID/coding.gif" width="300" alt="Developer at work">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/1e9c2db8a3d6f836740b7d76d8132107.gif" width="400" alt="Coding gif">
 </p>
 
-- 🎯 Passionate about solving real-world problems through code  
-- 💻 Experienced with Linux, web dev, and backend systems  
+- 💡 I love solving real-world problems with code  
+- 🐧 Comfortable working in Linux and full stack development  
 - 🤝 Open to collaborating on impactful projects  
-- 📫 Reach me: **contact@bikilaketema.com**  
-- 🌐 Website: [bikilaketema.com](https://bikilaketema.com)
+- 📫 Reach me at: **contact@bikilaketema.com**  
+- 🌐 Portfolio: [bikilaketema.com](https://bikilaketema.com)
 
 ---
 
@@ -30,9 +30,9 @@
 ### 🌐 Connect with me
 <p>
   <a href="https://linkedin.com/in/bikilaketema" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://facebook.com/bikilaketemaasefa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="30"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
