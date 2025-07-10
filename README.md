@@ -6,7 +6,7 @@
 </p>
 
 - 💡 I love solving real-world problems with code  
-- 🐧 Comfortable working in Linux and full stack development  
+- 🐧 Comfortable working in Linux environment
 - 🤝 Open to collaborating on impactful projects  
 - 📫 Reach me at: **contact@bikilaketema.com**  
 - 🌐 Portfolio: [bikilaketema.com](https://bikilaketema.com)
