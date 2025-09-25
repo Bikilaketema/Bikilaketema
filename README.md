@@ -8,7 +8,7 @@
 - 💡 I love solving real-world problems with code  
 - 🐧 Comfortable working in Linux environment
 - 🤝 Open to collaborating on impactful projects  
-- 📫 Reach me at: **contact@bikilaketema.com**  
+- 📫 Reach me at: **bikilaasefa94@gmail.com**  
 - 🌐 Portfolio: [bikilaketema.com](https://bikilaketema.com)
 
 ---
