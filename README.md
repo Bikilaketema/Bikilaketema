@@ -34,7 +34,9 @@
   <a href="https://linkedin.com/in/bikilaketema" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/bikilaketemaasefa" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  
+  <a href="mailto:bikilaketema94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
