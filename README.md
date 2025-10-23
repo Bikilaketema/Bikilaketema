@@ -12,7 +12,7 @@
 - 🐧 Comfortable in Linux environments & DevOps workflows (Docker, CI/CD)  
 - 🤝 Open to remote opportunities and impactful collaborations  
 - 📫 Reach me at: **bikilaasefa94@gmail.com**  
-- 🌐 Portfolio: [bikilaketema.com](https://bikilaketema.com)
+- 🌐 Portfolio: [bikilaketema.com](https://bikilaketema.vercel.app)
 
 ---
 
