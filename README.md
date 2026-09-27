@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bikila Ketema</h1>
-<h3 align="center">Backend Developer | FastAPI ⚡ NestJS | Building Scalable APIs and Microservices</h3>
+<h3 align="center">Software engineer | FastAPI ⚡ NestJS | Building Scalable APIs and Microservices</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/1e9c2db8a3d6f836740b7d76d8132107.gif" width="400" alt="Coding gif">
