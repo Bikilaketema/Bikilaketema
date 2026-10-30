@@ -11,8 +11,8 @@
 - 🧠 Strong foundation in RESTful API design, database modeling, and microservices  
 - 🐧 Comfortable in Linux environments & DevOps workflows (Docker, CI/CD)  
 - 🤝 Open to remote opportunities and impactful collaborations  
-- 📫 Reach me at: **bikilaasefa94@gmail.com**  
-- 🌐 Portfolio: [bikilaketema.com](https://bikilaketema.vercel.app)
+- 📫 Reach me at: **bikilaketema94@gmail.com**  
+- 🌐 Portfolio: [bikilaketema.me](https://bikilaketema.me)
 
 ---
 
